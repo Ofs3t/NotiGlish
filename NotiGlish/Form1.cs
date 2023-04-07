@@ -174,7 +174,7 @@ namespace NotiGlish
                 // download the read.txt file
                 using (var client = new WebClient())
                 {
-                    client.DownloadFile("https://raw.githubusercontent.com/Ofs3t/NotiGlish/master/Resources/read.txt", file);
+                    client.DownloadFile("http://raw.githubusercontent.com/Ofs3t/NotiGlish/master/Resources/read.txt", file);
                     // 
                 }
 
