@@ -1,0 +1,3 @@
+﻿line01#test#بسليتا
+line02#test02#
+line03#$#
