@@ -26,3 +26,8 @@ C:\NotiGlish\NotiGlish\obj\Debug\NotiGlish.csproj.CoreCompileInputs.cache
 C:\NotiGlish\NotiGlish\obj\Debug\NotiGlish.csproj.CopyComplete
 C:\NotiGlish\NotiGlish\obj\Debug\NotiGlish.exe
 C:\NotiGlish\NotiGlish\obj\Debug\NotiGlish.pdb
+C:\NotiGlish\NotiGlish\bin\Debug\NotiGlish.exe.manifest
+C:\NotiGlish\NotiGlish\bin\Debug\NotiGlish.application
+C:\NotiGlish\NotiGlish\obj\Debug\NotiGlish.TrustInfo.xml
+C:\NotiGlish\NotiGlish\obj\Debug\NotiGlish.exe.manifest
+C:\NotiGlish\NotiGlish\obj\Debug\NotiGlish.application
