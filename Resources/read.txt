@@ -1,3 +1,7 @@
-﻿line01#test#بسليتا
-line02#test02#
-line03#$#
+﻿Your wish is my command.#Your wish is my command, I'll do whatever you need me to do.#طلباتك أوامر
+For your own good.#Take my advice and do as I say; it's all for your own good.#لمصلحتك
+Easy does it.#Easy does it take your time and don't rush.#على مهلك
+bit by bit#We are getting closer to our goals, step by step, and bit by bit.#شيئاً فشيئاً
+Circumstances#The circumstances of his life have been difficult.#ظروف
+If my memory serves me correctly#If my memory serves me correctly, I believe I left my keys in the kitchen.#إن لم تخني  الذاكرة
+Your services are no longer needed##لم نعد بحاجة الى خدماتك
